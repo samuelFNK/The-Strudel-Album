@@ -1,2 +1,4 @@
 # The-Strudel-Album
-.strudel files that will compile into music when ran within the "Strudel-powered musical scripting interface"
+
+Go to https://strudel.cc where you will be able to paste in the files and press "play". 
+There is lots of documentation if you wanna try it out. 
